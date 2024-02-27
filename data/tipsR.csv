@@ -1,245 +1,245 @@
-"total_bill","tip","sex","smoker","day","time","size"
-16.99,1.01,"Female","No","Sun","Dinner",2
-10.34,1.66,"Male","No","Sun","Dinner",3
-21.01,3.5,"Male","No","Sun","Dinner",3
-23.68,3.31,"Male","No","Sun","Dinner",2
-24.59,3.61,"Female","No","Sun","Dinner",4
-25.29,4.71,"Male","No","Sun","Dinner",4
-8.77,2,"Male","No","Sun","Dinner",2
-26.88,3.12,"Male","No","Sun","Dinner",4
-15.04,1.96,"Male","No","Sun","Dinner",2
-14.78,3.23,"Male","No","Sun","Dinner",2
-10.27,1.71,"Male","No","Sun","Dinner",2
-35.26,5,"Female","No","Sun","Dinner",4
-15.42,1.57,"Male","No","Sun","Dinner",2
-18.43,3,"Male","No","Sun","Dinner",4
-14.83,3.02,"Female","No","Sun","Dinner",2
-21.58,3.92,"Male","No","Sun","Dinner",2
-10.33,1.67,"Female","No","Sun","Dinner",3
-16.29,3.71,"Male","No","Sun","Dinner",3
-16.97,3.5,"Female","No","Sun","Dinner",3
-20.65,3.35,"Male","No","Sat","Dinner",3
-17.92,4.08,"Male","No","Sat","Dinner",2
-20.29,2.75,"Female","No","Sat","Dinner",2
-15.77,2.23,"Female","No","Sat","Dinner",2
-39.42,7.58,"Male","No","Sat","Dinner",4
-19.82,3.18,"Male","No","Sat","Dinner",2
-17.81,2.34,"Male","No","Sat","Dinner",4
-13.37,2,"Male","No","Sat","Dinner",2
-12.69,2,"Male","No","Sat","Dinner",2
-21.7,4.3,"Male","No","Sat","Dinner",2
-19.65,3,"Female","No","Sat","Dinner",2
-9.55,1.45,"Male","No","Sat","Dinner",2
-18.35,2.5,"Male","No","Sat","Dinner",4
-15.06,3,"Female","No","Sat","Dinner",2
-20.69,2.45,"Female","No","Sat","Dinner",4
-17.78,3.27,"Male","No","Sat","Dinner",2
-24.06,3.6,"Male","No","Sat","Dinner",3
-16.31,2,"Male","No","Sat","Dinner",3
-16.93,3.07,"Female","No","Sat","Dinner",3
-18.69,2.31,"Male","No","Sat","Dinner",3
-31.27,5,"Male","No","Sat","Dinner",3
-16.04,2.24,"Male","No","Sat","Dinner",3
-17.46,2.54,"Male","No","Sun","Dinner",2
-13.94,3.06,"Male","No","Sun","Dinner",2
-9.68,1.32,"Male","No","Sun","Dinner",2
-30.4,5.6,"Male","No","Sun","Dinner",4
-18.29,3,"Male","No","Sun","Dinner",2
-22.23,5,"Male","No","Sun","Dinner",2
-32.4,6,"Male","No","Sun","Dinner",4
-28.55,2.05,"Male","No","Sun","Dinner",3
-18.04,3,"Male","No","Sun","Dinner",2
-12.54,2.5,"Male","No","Sun","Dinner",2
-10.29,2.6,"Female","No","Sun","Dinner",2
-34.81,5.2,"Female","No","Sun","Dinner",4
-9.94,1.56,"Male","No","Sun","Dinner",2
-25.56,4.34,"Male","No","Sun","Dinner",4
-19.49,3.51,"Male","No","Sun","Dinner",2
-38.01,3,"Male","Yes","Sat","Dinner",4
-26.41,1.5,"Female","No","Sat","Dinner",2
-11.24,1.76,"Male","Yes","Sat","Dinner",2
-48.27,6.73,"Male","No","Sat","Dinner",4
-20.29,3.21,"Male","Yes","Sat","Dinner",2
-13.81,2,"Male","Yes","Sat","Dinner",2
-11.02,1.98,"Male","Yes","Sat","Dinner",2
-18.29,3.76,"Male","Yes","Sat","Dinner",4
-17.59,2.64,"Male","No","Sat","Dinner",3
-20.08,3.15,"Male","No","Sat","Dinner",3
-16.45,2.47,"Female","No","Sat","Dinner",2
-3.07,1,"Female","Yes","Sat","Dinner",1
-20.23,2.01,"Male","No","Sat","Dinner",2
-15.01,2.09,"Male","Yes","Sat","Dinner",2
-12.02,1.97,"Male","No","Sat","Dinner",2
-17.07,3,"Female","No","Sat","Dinner",3
-26.86,3.14,"Female","Yes","Sat","Dinner",2
-25.28,5,"Female","Yes","Sat","Dinner",2
-14.73,2.2,"Female","No","Sat","Dinner",2
-10.51,1.25,"Male","No","Sat","Dinner",2
-17.92,3.08,"Male","Yes","Sat","Dinner",2
-27.2,4,"Male","No","Thur","Lunch",4
-22.76,3,"Male","No","Thur","Lunch",2
-17.29,2.71,"Male","No","Thur","Lunch",2
-19.44,3,"Male","Yes","Thur","Lunch",2
-16.66,3.4,"Male","No","Thur","Lunch",2
-10.07,1.83,"Female","No","Thur","Lunch",1
-32.68,5,"Male","Yes","Thur","Lunch",2
-15.98,2.03,"Male","No","Thur","Lunch",2
-34.83,5.17,"Female","No","Thur","Lunch",4
-13.03,2,"Male","No","Thur","Lunch",2
-18.28,4,"Male","No","Thur","Lunch",2
-24.71,5.85,"Male","No","Thur","Lunch",2
-21.16,3,"Male","No","Thur","Lunch",2
-28.97,3,"Male","Yes","Fri","Dinner",2
-22.49,3.5,"Male","No","Fri","Dinner",2
-5.75,1,"Female","Yes","Fri","Dinner",2
-16.32,4.3,"Female","Yes","Fri","Dinner",2
-22.75,3.25,"Female","No","Fri","Dinner",2
-40.17,4.73,"Male","Yes","Fri","Dinner",4
-27.28,4,"Male","Yes","Fri","Dinner",2
-12.03,1.5,"Male","Yes","Fri","Dinner",2
-21.01,3,"Male","Yes","Fri","Dinner",2
-12.46,1.5,"Male","No","Fri","Dinner",2
-11.35,2.5,"Female","Yes","Fri","Dinner",2
-15.38,3,"Female","Yes","Fri","Dinner",2
-44.3,2.5,"Female","Yes","Sat","Dinner",3
-22.42,3.48,"Female","Yes","Sat","Dinner",2
-20.92,4.08,"Female","No","Sat","Dinner",2
-15.36,1.64,"Male","Yes","Sat","Dinner",2
-20.49,4.06,"Male","Yes","Sat","Dinner",2
-25.21,4.29,"Male","Yes","Sat","Dinner",2
-18.24,3.76,"Male","No","Sat","Dinner",2
-14.31,4,"Female","Yes","Sat","Dinner",2
-14,3,"Male","No","Sat","Dinner",2
-7.25,1,"Female","No","Sat","Dinner",1
-38.07,4,"Male","No","Sun","Dinner",3
-23.95,2.55,"Male","No","Sun","Dinner",2
-25.71,4,"Female","No","Sun","Dinner",3
-17.31,3.5,"Female","No","Sun","Dinner",2
-29.93,5.07,"Male","No","Sun","Dinner",4
-10.65,1.5,"Female","No","Thur","Lunch",2
-12.43,1.8,"Female","No","Thur","Lunch",2
-24.08,2.92,"Female","No","Thur","Lunch",4
-11.69,2.31,"Male","No","Thur","Lunch",2
-13.42,1.68,"Female","No","Thur","Lunch",2
-14.26,2.5,"Male","No","Thur","Lunch",2
-15.95,2,"Male","No","Thur","Lunch",2
-12.48,2.52,"Female","No","Thur","Lunch",2
-29.8,4.2,"Female","No","Thur","Lunch",6
-8.52,1.48,"Male","No","Thur","Lunch",2
-14.52,2,"Female","No","Thur","Lunch",2
-11.38,2,"Female","No","Thur","Lunch",2
-22.82,2.18,"Male","No","Thur","Lunch",3
-19.08,1.5,"Male","No","Thur","Lunch",2
-20.27,2.83,"Female","No","Thur","Lunch",2
-11.17,1.5,"Female","No","Thur","Lunch",2
-12.26,2,"Female","No","Thur","Lunch",2
-18.26,3.25,"Female","No","Thur","Lunch",2
-8.51,1.25,"Female","No","Thur","Lunch",2
-10.33,2,"Female","No","Thur","Lunch",2
-14.15,2,"Female","No","Thur","Lunch",2
-16,2,"Male","Yes","Thur","Lunch",2
-13.16,2.75,"Female","No","Thur","Lunch",2
-17.47,3.5,"Female","No","Thur","Lunch",2
-34.3,6.7,"Male","No","Thur","Lunch",6
-41.19,5,"Male","No","Thur","Lunch",5
-27.05,5,"Female","No","Thur","Lunch",6
-16.43,2.3,"Female","No","Thur","Lunch",2
-8.35,1.5,"Female","No","Thur","Lunch",2
-18.64,1.36,"Female","No","Thur","Lunch",3
-11.87,1.63,"Female","No","Thur","Lunch",2
-9.78,1.73,"Male","No","Thur","Lunch",2
-7.51,2,"Male","No","Thur","Lunch",2
-14.07,2.5,"Male","No","Sun","Dinner",2
-13.13,2,"Male","No","Sun","Dinner",2
-17.26,2.74,"Male","No","Sun","Dinner",3
-24.55,2,"Male","No","Sun","Dinner",4
-19.77,2,"Male","No","Sun","Dinner",4
-29.85,5.14,"Female","No","Sun","Dinner",5
-48.17,5,"Male","No","Sun","Dinner",6
-25,3.75,"Female","No","Sun","Dinner",4
-13.39,2.61,"Female","No","Sun","Dinner",2
-16.49,2,"Male","No","Sun","Dinner",4
-21.5,3.5,"Male","No","Sun","Dinner",4
-12.66,2.5,"Male","No","Sun","Dinner",2
-16.21,2,"Female","No","Sun","Dinner",3
-13.81,2,"Male","No","Sun","Dinner",2
-17.51,3,"Female","Yes","Sun","Dinner",2
-24.52,3.48,"Male","No","Sun","Dinner",3
-20.76,2.24,"Male","No","Sun","Dinner",2
-31.71,4.5,"Male","No","Sun","Dinner",4
-10.59,1.61,"Female","Yes","Sat","Dinner",2
-10.63,2,"Female","Yes","Sat","Dinner",2
-50.81,10,"Male","Yes","Sat","Dinner",3
-15.81,3.16,"Male","Yes","Sat","Dinner",2
-7.25,5.15,"Male","Yes","Sun","Dinner",2
-31.85,3.18,"Male","Yes","Sun","Dinner",2
-16.82,4,"Male","Yes","Sun","Dinner",2
-32.9,3.11,"Male","Yes","Sun","Dinner",2
-17.89,2,"Male","Yes","Sun","Dinner",2
-14.48,2,"Male","Yes","Sun","Dinner",2
-9.6,4,"Female","Yes","Sun","Dinner",2
-34.63,3.55,"Male","Yes","Sun","Dinner",2
-34.65,3.68,"Male","Yes","Sun","Dinner",4
-23.33,5.65,"Male","Yes","Sun","Dinner",2
-45.35,3.5,"Male","Yes","Sun","Dinner",3
-23.17,6.5,"Male","Yes","Sun","Dinner",4
-40.55,3,"Male","Yes","Sun","Dinner",2
-20.69,5,"Male","No","Sun","Dinner",5
-20.9,3.5,"Female","Yes","Sun","Dinner",3
-30.46,2,"Male","Yes","Sun","Dinner",5
-18.15,3.5,"Female","Yes","Sun","Dinner",3
-23.1,4,"Male","Yes","Sun","Dinner",3
-15.69,1.5,"Male","Yes","Sun","Dinner",2
-19.81,4.19,"Female","Yes","Thur","Lunch",2
-28.44,2.56,"Male","Yes","Thur","Lunch",2
-15.48,2.02,"Male","Yes","Thur","Lunch",2
-16.58,4,"Male","Yes","Thur","Lunch",2
-7.56,1.44,"Male","No","Thur","Lunch",2
-10.34,2,"Male","Yes","Thur","Lunch",2
-43.11,5,"Female","Yes","Thur","Lunch",4
-13,2,"Female","Yes","Thur","Lunch",2
-13.51,2,"Male","Yes","Thur","Lunch",2
-18.71,4,"Male","Yes","Thur","Lunch",3
-12.74,2.01,"Female","Yes","Thur","Lunch",2
-13,2,"Female","Yes","Thur","Lunch",2
-16.4,2.5,"Female","Yes","Thur","Lunch",2
-20.53,4,"Male","Yes","Thur","Lunch",4
-16.47,3.23,"Female","Yes","Thur","Lunch",3
-26.59,3.41,"Male","Yes","Sat","Dinner",3
-38.73,3,"Male","Yes","Sat","Dinner",4
-24.27,2.03,"Male","Yes","Sat","Dinner",2
-12.76,2.23,"Female","Yes","Sat","Dinner",2
-30.06,2,"Male","Yes","Sat","Dinner",3
-25.89,5.16,"Male","Yes","Sat","Dinner",4
-48.33,9,"Male","No","Sat","Dinner",4
-13.27,2.5,"Female","Yes","Sat","Dinner",2
-28.17,6.5,"Female","Yes","Sat","Dinner",3
-12.9,1.1,"Female","Yes","Sat","Dinner",2
-28.15,3,"Male","Yes","Sat","Dinner",5
-11.59,1.5,"Male","Yes","Sat","Dinner",2
-7.74,1.44,"Male","Yes","Sat","Dinner",2
-30.14,3.09,"Female","Yes","Sat","Dinner",4
-12.16,2.2,"Male","Yes","Fri","Lunch",2
-13.42,3.48,"Female","Yes","Fri","Lunch",2
-8.58,1.92,"Male","Yes","Fri","Lunch",1
-15.98,3,"Female","No","Fri","Lunch",3
-13.42,1.58,"Male","Yes","Fri","Lunch",2
-16.27,2.5,"Female","Yes","Fri","Lunch",2
-10.09,2,"Female","Yes","Fri","Lunch",2
-20.45,3,"Male","No","Sat","Dinner",4
-13.28,2.72,"Male","No","Sat","Dinner",2
-22.12,2.88,"Female","Yes","Sat","Dinner",2
-24.01,2,"Male","Yes","Sat","Dinner",4
-15.69,3,"Male","Yes","Sat","Dinner",3
-11.61,3.39,"Male","No","Sat","Dinner",2
-10.77,1.47,"Male","No","Sat","Dinner",2
-15.53,3,"Male","Yes","Sat","Dinner",2
-10.07,1.25,"Male","No","Sat","Dinner",2
-12.6,1,"Male","Yes","Sat","Dinner",2
-32.83,1.17,"Male","Yes","Sat","Dinner",2
-35.83,4.67,"Female","No","Sat","Dinner",3
-29.03,5.92,"Male","No","Sat","Dinner",3
-27.18,2,"Female","Yes","Sat","Dinner",2
-22.67,2,"Male","Yes","Sat","Dinner",2
-17.82,1.75,"Male","No","Sat","Dinner",2
-18.78,3,"Female","No","Thur","Dinner",2
+total_bill,tip,sex,smoker,day,time,size,review
+16.99,1.01,Female,No,Sun,Dinner,2, Ayam bakarnya juara!
+10.34,1.66,Male,No,Sun,Dinner,3," Pelayanan ramah, makanan enak"
+21.01,3.5,Male,No,Sun,Dinner,3," Harga bersahabat, rasa mantap"
+23.68,3.31,Male,No,Sun,Dinner,2," Tempat cozy, ayam sedap"
+24.59,3.61,Female,No,Sun,Dinner,4," Sausnya unik, bikin ketagihan"
+25.29,4.71,Male,No,Sun,Dinner,4, Ayamnya lembut banget!
+8.77,2,Pria,No,Sun,Dinner,2, Tempatnya asik buat nongkrong
+26.88,3.12,Male,No,Sun,Dinner,4," Minumannya segar, pas banget"
+15.04,1.96,Male,No,Sun,Dinner,2," Sambalnya pedas meresap, top!"
+14.78,3.23,Male,No,Sun,Dinner,2," Porsi besar, puas deh"
+10.27,1.71,Male,No,Sun,Dinner,2, Ayam bakar terbaik di kota
+35.26,5,Female,No,Sun,Dinner,4," Menu variatif, semuanya enak"
+15.42,1.57,Male,No,Sun,Dinner,2," Suasana nyaman, makanan lezat"
+18.43,3,Male,No,Sun,Dinner,4, Ayam bakarnya bikin nagih
+14.83,3.02,Female,No,Sun,Dinner,2," Sering kesini, tidak pernah kecewa"
+21.58,3.92,Male,No,Sun,Dinner,2," Minuman kekinian, pas buat anak muda"
+10.33,1.67,Female,No,Sun,Dinner,3," Ayamnya empuk, bumbunya meresap"
+16.29,3.71,Male,No,Sun,Dinner,3," Pelayanannya cepat, tidak mengecewakan"
+16.97,3.5,Female,No,Sun,Dinner,3," Tempat keren, makanan top"
+20.65,3.35,Male,No,Sat,Dinner,3," Suasana santai, cocok buat kumpul"
+17.92,4.08,Male,No,Sat,Dinner,2, Hidangan sampingannya juga oke
+20.29,2.75,Female,No,Sat,Dinner,2, Ayam bakar + sambal = sempurna
+15.77,2.23,Female,No,Sat,Dinner,2, Best grilled chicken ever!
+39.42,7.58,Male,No,Sat,Dinner,4," Harga ok, rasa lebih ok"
+19.82,3.18,Male,No,Sat,Dinner,2, Tempatnya instagrammable banget
+17.81,2.34,Male,No,Sat,Dinner,4, Cocok buat family dinner
+13.37,2,Male,No,Sat,Dinner,2, Ayam bakarnya tidak ada duanya
+12.69,2,Male,No,Sat,Dinner,2," Pelayanan super, makanan super"
+21.7,4.3,Male,No,Sat,Dinner,2, Nasi lemaknya juga recommended!
+19.65,3,Female,No,Sat,Dinner,2, Suka banget sama suasana disini
+9.55,1.45,Male,No,Sat,Dinner,2," Ayam bakar, nambah terus"
+18.35,2.5,Male,No,Sat,Dinner,4, Menu anak-anak juga enak
+15.06,3,Female,No,Sat,Dinner,2," Tempat bersih, makanan sehat"
+20.69,2.45,Female,No,Sat,Dinner,4," Ayamnya juicy, flavorfull"
+17.78,3.27,Male,No,Sat,Dinner,2, Sambal matahnya juara
+24.06,3.6,Male,No,Sat,Dinner,3, Ayam bakarnya mantul abis
+16.31,2,Male,No,Sat,Dinner,3," Tempatnya luas, parkir gampang"
+16.93,3.07,Female,No,Sat,Dinner,3, Suka suasana outdoor-nya
+18.69,2.31,Male,No,Sat,Dinner,3," Buka sampai malam, enak"
+31.27,5,Male,No,Sat,Dinner,3," Makanan halal, aman!"
+16.04,2.24,Male,No,Sat,Dinner,3, Suka banget ayam bakarnya!
+17.46,2.54,Male,No,Sun,Dinner,2," Tempatnya adem, nyaman"
+13.94,3.06,Male,No,Sun,Dinner,2," Kafe konsep unik, makanan enak"
+9.68,1.32,Male,No,Sun,Dinner,2, Ayam bakar paling favorit
+30.4,5.6,Male,No,Sun,Dinner,4," Harga masuk akal, kualitas top"
+18.29,3,Male,No,Sun,Dinner,2," Sering promosi, jadi hemat"
+22.23,5,Male,No,Sun,Dinner,2, Ayam + nasi uduk = sempurna
+32.4,6,Male,No,Sun,Dinner,4, Semua menu worth to try!
+28.55,2.05,Male,No,Sun,Dinner,3," Pelayanan mantap, rasa juara"
+18.04,3,Male,No,Sun,Dinner,2, Ayam bakarnya luar biasa
+12.54,2.5,Male,No,Sun,Dinner,2," Bumbunya pas, tidak terlalu pedas"
+10.29,2.6,Female,No,Sun,Dinner,2, Ayam bakarnya selalu fresh
+34.81,5.2,Female,No,Sun,Dinner,4, Cocok untuk makan besar
+9.94,1.56,Male,No,Sun,Dinner,2, Tempatnya nyaman untuk keluarga
+25.56,4.34,Male,No,Sun,Dinner,4, Snacknya juga enak-enak
+19.49,3.51,Male,No,Sun,Dinner,2," Tempat nongkrong asik, makanan enak"
+38.01,3,Male,Yes,Sat,Dinner,4," Makanannya halal, tenang saja"
+26.41,1.5,Female,No,Sat,Dinner,2," Selalu ramai, tanda makanan enak"
+11.24,1.76,Male,Yes,Sat,Dinner,2, Ayam bakar madu nya mantap
+48.27,6.73,Male,No,Sat,Dinner,4," Menu lengkap, semua ada"
+20.29,3.21,Male,Yes,Sat,Dinner,2, Ayamnya tidak pernah mengecewakan
+13.81,2,Male,Yes,Sat,Dinner,2, Paket hematnya pas buat mahasiswa
+11.02,1.98,Male,Yes,Sat,Dinner,22, Ayam bakar taliwangnya juara
+18.29,3.76,Male,Yes,Sat,Dinner,4," Es tehnya segar, pas banget"
+17.59,2.64,Male,No,Sat,Dinner,3," Ayamnya krispi, sausnya nendang"
+20.08,3.15,Male,No,Sat,Dinner,3, Ayam bakar kecapnya juara
+16.45,2.47,Female,No,Sat,Dinner,2, Suka banget sama minumannya
+3.07,1,Female,Yes,Sat,Dinner,1, Tempat makan favorit keluarga
+20.23,2.01,Male,No,Sat,Dinner,2, Menu baru selalu menarik
+15.01,2.09,Male,Yes,Sat,Dinner,2," Makanan enak, harga terjangkau"
+12.02,1.97,Male,No,Sat,Dinner,2, Tempat makan paling cozy
+17.07,3,Female,No,Sat,Dinner,3, Sambalnya bikin nambah terus
+26.86,3.14,Female,Yes,Sat,Dinner,2, Ayam bakarnya top banget
+25.28,5,Female,Yes,Sat,Dinner,2," Layanan cepat, makanan hangat"
+14.73,2.2,Female,No,Sat,Dinner,2, Ayam gorengnya juga enak
+10.51,1.25,Male,No,Sat,Dinner,2," Pilihan menu sehat, bagus"
+17.92,3.08,Male,Yes,Sat,Dinner,2," Tempatnya strategis, mudah dijangkau"
+27.2,4,Male,No,Thur,Lunch,4," Ayam bakar lezat, must try!"
+22.76,3,Male,No,Thur,Lunch,2," Tempatnya keren, makanan memuaskan"
+17.29,2.71,Male,No,Thur,Lunch,2, Menu vegetarian juga ada
+19.44,3,Male,Yes,Thur,Lunch,2, Semua makanan rasanya autentik
+16.66,3.4,Male,No,Thur,Lunch,2, Ayam bakarnya empuk banget
+10.07,1.83,Female,No,Thur,Lunch,1, Rasa ayamnya bikin kangen
+32.68,5,Male,Yes,Thur,Lunch,2," Parkir susah, stres"
+15.98,2.03,Male,No,Thur,Lunch,2, Ayam bakarnya biasa aja
+34.83,5.17,Female,No,Thur,Lunch,4, Waiter kurang perhatian
+13.03,2,Male,No,Thur,Lunch,2," Sambal terlalu pedas, ga tahan"
+18.28,4,Male,No,Thur,Lunch,2," Menu banyak, tapi rasa standar"
+24.71,5.85,Male,No,Thur,Lunch,2," Ayamnya enak, tapi porsinya kecil"
+21.16,3,Male,No,Thur,Lunch,2," Suasana bagus, tapi mahal"
+28.97,3,Male,Yes,Fri,Dinner,2," Rasa ok, tapi tempat panas"
+22.49,3.5,Male,No,Fri,Dinner,2, Ayamnya agak kering sih
+5.75,1,Female,Yes,Fri,Dinner,2," Tempatnya ok, tapi rame banget"
+16.32,4.3,Female,Yes,Fri,Dinner,2, Sausnya kurang nendang
+22.75,3.25,Female,No,Fri,Dinner,2, Pelayanan lumayan lama
+40.17,4.73,Male,Yes,Fri,Dinner,4," Harga naik, kualitas sama"
+27.28,4,Male,Yes,Fri,Dinner,2, Minumannya manis banget
+12.03,1.5,Male,Yes,Fri,Dinner,2," Tempatnya kecil, agak sesak"
+21.01,3,Male,Yes,Fri,Dinner,2," Parkir susah, stres"
+12.46,1.5,Male,No,Fri,Dinner,2, Ayam bakarnya biasa aja
+11.35,2.5,Female,Yes,Fri,Dinner,2, Waiter kurang perhatian
+15.38,3,Female,Yes,Fri,Dinner,2," Sambal terlalu pedas, ga tahan"
+44.3,2.5,Female,Yes,Sat,Dinner,3," Menu banyak, tapi rasa standar"
+22.42,3.48,Female,Yes,Sat,Dinner,2," Ayamnya enak, tapi porsinya kecil"
+20.92,4.08,Female,No,Sat,Dinner,2," Suasana bagus, tapi mahal"
+15.36,1.64,Male,Yes,Sat,Dinner,2, Makanan datangnya lama banget
+20.49,4.06,Male,Yes,Sat,Dinner,2," Ayam bakar lumayan, tapi mahal"
+25.21,4.29,Male,Yes,Sat,Dinner,2," Pelayanannya bagus, tapi WC kotor"
+18.24,3.76,Male,No,Sat,Dinner,2," Rasa ok, tapi tempat panas"
+14.31,4,Female,Yes,Sat,Dinner,2, Menu terbatas pas jam sibuk
+14,3,Male,No,Sat,Dinner,2," Ayamnya enak, tapi sausnya tumpah"
+7.25,1,Female,No,Sat,Dinner,1," Musiknya keras, ga nyaman"
+38.07,4,Male,No,Sun,Dinner,3," Minuman kehabisan, pilihan terbatas"
+23.95,2.55,Male,No,Sun,Dinner,2," Tempatnya asik, tapi kurang bersih"
+25.71,4,Female,No,Sun,Dinner,3," Ayam bakarnya enak, tapi asapnya pekat"
+17.31,3.5,Female,No,Sun,Dinner,2, Kasirnya kurang ramah
+29.93,5.07,Male,No,Sun,Dinner,4," Ayamnya gosong, kecewa"
+10.65,1.5,Female,No,Thur,Lunch,2," Tempat bagus, tapi sering penuh"
+12.43,1.8,Female,No,Thur,Lunch,2, Menu anak kurang variatif
+24.08,2.92,Female,No,Thur,Lunch,4," Suka ayam bakarnya, tapi minumannya biasa"
+11.69,2.31,Male,No,Thur,Lunch,2," Sambalnya enak, tapi ayamnya kurang matang"
+13.42,1.68,Female,No,Thur,Lunch,2," Ayamnya juicy, tapi kulitnya keras"
+14.26,2.5,Male,No,Thur,Lunch,2," Pelayanan ramah, tapi sering salah order"
+15.95,2,Male,No,Thur,Lunch,2," Dessertnya mengecewakan, terlalu manis"
+12.48,2.52,Female,No,Thur,Lunch,2," Suka tempatnya, tapi kurang terang"
+29.8,4.2,Female,No,Thur,Lunch,6," Ayam bakar ok, tapi sayurnya layu"
+8.52,1.48,Male,No,Thur,Lunch,2," Nasi lemaknya keras, tidak fresh"
+14.52,2,Female,No,Thur,Lunch,2," Tempatnya bagus untuk foto, tapi mahal"
+11.38,2,Female,No,Thur,Lunch,2," Ayam bakar mantap, tapi nasi kurang hangat"
+22.82,2.18,Male,No,Thur,Lunch,3," Tempatnya nyaman, tapi kadang ada nyamuk"
+19.08,1.5,Male,No,Thur,Lunch,2," Minuman segar, tapi terlalu banyak es"
+20.27,2.83,Female,No,Thur,Lunch,2," Suka dengan suasana, tapi pelayanan bisa ditingkatkan"
+11.17,1.5,Female,No,Thur,Lunch,2," Ayam bakarnya enak, tapi tempat parkir jauh"
+12.26,2,Female,No,Thur,Lunch,2," Ayam bakar lezat, sayang sajinya lama"
+18.26,3.25,Female,No,Thur,Lunch,2," Menu bervariasi, tapi beberapa rasa biasa saja"
+8.51,1.25,Female,No,Thur,Lunch,2," Sambalnya beda, tapi tidak semua suka"
+10.33,2,Female,No,Thur,Lunch,2," Minumannya unik, tapi harga terlalu tinggi"
+14.15,2,Female,No,Thur,Lunch,2," Tempatnya menarik, tapi aksesnya sulit"
+16,2,Male,Yes,Thur,Lunch,2," Pelayanan baik, tapi kadang lupa pesanan"
+13.16,2.75,Female,No,Thur,Lunch,2," Ayamnya empuk, tapi bumbunya kurang meresap"
+17.47,3.5,Female,No,Thur,Lunch,2," Menu cukup lengkap, tapi ada yang habis"
+34.3,6.7,Male,No,Thur,Lunch,6," Tempat keren, tapi kadang terlalu bising"
+41.19,5,Male,No,Thur,Lunch,5," Ayam bakar enak, tapi kecil porsinya"
+27.05,5,Female,No,Thur,Lunch,6," Pelayanannya ramah, tapi tempatnya kurang nyaman"
+16.43,2.3,Female,No,Thur,Lunch,2," Suka suasana outdoor, tapi banyak nyamuk"
+8.35,1.5,Female,No,Thur,Lunch,2," Ayam bakarnya top, tapi minumannya kurang dingin"
+18.64,1.36,Female,No,Thur,Lunch,3," Tempatnya cozy, tapi wifi lemot"
+11.87,1.63,Female,No,Thur,Lunch,2," Ayam bakar juara, tapi lalapan kurang segar"
+9.78,1.73,Male,No,Thur,Lunch,2," Pelayanan memuaskan, tapi harga sedikit mahal"
+7.51,2,Male,No,Thur,Lunch,2," Ayam bakar mantap, tapi kecapnya terlalu manis"
+14.07,2.5,Male,No,Sun,Dinner,2," Tempat bagus, tapi musiknya tidak sesuai selera"
+13.13,2,Male,No,Sun,Dinner,2," Makanannya enak, tapi sering kehabisan"
+17.26,2.74,Male,No,Sun,Dinner,3," Ayamnya bagus, tapi sayurannya tidak fresh"
+24.55,2,Male,No,Sun,Dinner,4," Tempatnya instagrammable, tapi sering penuh"
+19.77,2,Male,No,Sun,Dinner,4," Pelayanan top, tapi sering kelupaan memberi sambal"
+29.85,5.14,Female,No,Sun,Dinner,5," Suka banget sama ayamnya, tapi es tehnya biasa"
+48.17,5,Male,No,Sun,Dinner,6," Minuman segar, tapi kadang pelayan lupa"
+25,3.75,Female,No,Sun,Dinner,4," Ayam bakar enak, tapi kadang terlalu asin"
+13.39,2.61,Female,No,Sun,Dinner,2," Menu banyak, tapi beberapa terlalu pedas"
+16.49,2,Male,No,Sun,Dinner,4," Ayam bakarnya mantap, tapi tempat duduk sempit"
+21.5,3.5,Male,No,Sun,Dinner,4," Tempat asik, tapi ac sering tidak dingin"
+12.66,2.5,Male,No,Sun,Dinner,2," Menu lengkap, semua ada"
+16.21,2,Female,No,Sun,Dinner,3, Ayamnya tidak pernah mengecewakan
+13.81,2,Male,No,Sun,Dinner,2, Paket hematnya pas buat mahasiswa
+17.51,3,Female,Yes,Sun,Dinner,2, Ayam bakar taliwangnya juara
+24.52,3.48,Male,No,Sun,Dinner,3," Es tehnya segar, pas banget"
+20.76,2.24,Male,No,Sun,Dinner,2," Ayamnya krispi, sausnya nendang"
+31.71,4.5,Male,No,Sun,Dinner,4, Ayam bakar kecapnya juara
+10.59,1.61,Female,Yes,Sat,Dinner,2, Suka banget sama minumannya
+10.63,2,Female,Yes,Sat,Dinner,2, Tempat makan favorit keluarga
+50.81,10,Male,Yes,Sat,Dinner,3, Menu baru selalu menarik
+15.81,3.16,Male,Yes,Sat,Dinner,2," Makanan enak, harga terjangkau"
+7.25,5.15,Male,Yes,Sun,Dinner,2, Tempat makan paling cozy
+31.85,3.18,Male,Yes,Sun,Dinner,2, Sambalnya bikin nambah terus
+16.82,4,Male,Yes,Sun,Dinner,2, Ayam bakarnya top banget
+32.9,3.11,Male,Yes,Sun,Dinner,2," Layanan cepat, makanan hangat"
+17.89,2,Male,Yes,Sun,Dinner,2, Ayam gorengnya juga enak
+14.48,2,Male,Yes,Sun,Dinner,2," Pilihan menu sehat, bagus"
+9.6,4,Female,Yes,Sun,Dinner,2," Tempatnya strategis, mudah dijangkau"
+34.63,3.55,Male,Yes,Sun,Dinner,2," Ayam bakar lezat, must try!"
+34.65,3.68,Male,Yes,Sun,Dinner,4," Tempatnya keren, makanan memuaskan"
+23.33,5.65,Male,Yes,Sun,Dinner,2, Menu vegetarian juga ada
+45.35,3.5,Male,Yes,Sun,Dinner,3, Semua makanan rasanya autentik
+23.17,6.5,Male,Yes,Sun,Dinner,4, Ayam bakarnya empuk banget
+40.55,3,Male,Yes,Sun,Dinner,2, Rasa ayamnya bikin kangen
+20.69,5,Male,No,Sun,Dinner,5," Parkir susah, stres"
+20.9,3.5,Female,Yes,Sun,Dinner,3, Ayam bakarnya biasa aja
+30.46,2,Male,Yes,Sun,Dinner,5, Waiter kurang perhatian
+18.15,3.5,Female,Yes,Sun,Dinner,3," Sambal terlalu pedas, ga tahan"
+23.1,4,Male,Yes,Sun,Dinner,3," Menu banyak, tapi rasa standar"
+15.69,1.5,Male,Yes,Sun,Dinner,2," Ayamnya enak, tapi porsinya kecil"
+19.81,4.19,Female,Yes,Thur,Lunch,2," Suasana bagus, tapi mahal"
+28.44,2.56,Male,Yes,Thur,Lunch,2," Rasa ok, tapi tempat panas"
+15.48,2.02,Male,Yes,Thur,Lunch,2, Ayamnya agak kering sih
+16.58,4,Male,Yes,Thur,Lunch,2," Tempatnya ok, tapi rame banget"
+7.56,1.44,Male,No,Thur,Lunch,2, Sausnya kurang nendang
+10.34,2,Male,Yes,Thur,Lunch,2, Pelayanan lumayan lama
+43.11,5,Female,Yes,Thur,Lunch,4," Harga naik, kualitas sama"
+13,2,Female,Yes,Thur,Lunch,2, Minumannya manis banget
+13.51,2,Male,Yes,Thur,Lunch,2," Tempatnya kecil, agak sesak"
+18.71,4,Male,Yes,Thur,Lunch,3," Parkir susah, stres"
+12.74,2.01,Female,Yes,Thur,Lunch,2, Ayam bakarnya biasa aja
+13,2,Female,Yes,Thur,Lunch,2, Waiter kurang perhatian
+16.4,2.5,Female,Yes,Thur,Lunch,2," Sambal terlalu pedas, ga tahan"
+20.53,4,Male,Yes,Thur,Lunch,4," Menu banyak, tapi rasa standar"
+16.47,3.23,Female,Yes,Thur,Lunch,3," Ayamnya enak, tapi porsinya kecil"
+26.59,3.41,Male,Yes,Sat,Dinner,3," Suasana bagus, tapi mahal"
+38.73,3,Male,Yes,Sat,Dinner,4, Makanan datangnya lama banget
+24.27,2.03,Male,Yes,Sat,Dinner,2," Ayam bakar lumayan, tapi mahal"
+12.76,2.23,Female,Yes,Sat,Dinner,2," Pelayanannya bagus, tapi WC kotor"
+30.06,2,Male,Yes,Sat,Dinner,3," Rasa ok, tapi tempat panas"
+25.89,5.16,Male,Yes,Sat,Dinner,4, Menu terbatas pas jam sibuk
+48.33,9,Male,No,Sat,Dinner,4," Ayamnya enak, tapi sausnya tumpah"
+13.27,2.5,Female,Yes,Sat,Dinner,2," Musiknya keras, ga nyaman"
+28.17,6.5,Female,Yes,Sat,Dinner,3," Minuman kehabisan, pilihan terbatas"
+12.9,1.1,Female,Yes,Sat,Dinner,2," Tempatnya asik, tapi kurang bersih"
+28.15,3,Male,Yes,Sat,Dinner,5," Ayam bakarnya enak, tapi asapnya pekat"
+11.59,1.5,Male,Yes,Sat,Dinner,2, Kasirnya kurang ramah
+7.74,1.44,Male,Yes,Sat,Dinner,2," Ayamnya gosong, kecewa"
+30.14,3.09,Female,Yes,Sat,Dinner,4," Tempat bagus, tapi sering penuh"
+12.16,2.2,Male,Yes,Fri,Lunch,2, Menu anak kurang variatif
+13.42,3.48,Female,Yes,Fri,Lunch,2," Suka ayam bakarnya, tapi minumannya biasa"
+8.58,1.92,Male,Yes,Fri,Lunch,1," Sambalnya enak, tapi ayamnya kurang matang"
+15.98,3,Female,No,Fri,Lunch,3," Ayamnya juicy, tapi kulitnya keras"
+13.42,1.58,Male,Yes,Fri,Lunch,2, Ayamnya lembut banget!
+16.27,2.5,Female,Yes,Fri,Lunch,2, Tempatnya asik buat nongkrong
+10.09,2,Female,Yes,Fri,Lunch,2," Minumannya segar, pas banget"
+20.45,3,Male,No,Sat,Dinner,4," Sambalnya pedas meresap, top!"
+13.28,2.72,Male,No,Sat,Dinner,2," Porsi besar, puas deh"
+22.12,2.88,Female,Yes,Sat,Dinner,2, Ayam bakar terbaik di kota
+24.01,2,Male,Yes,Sat,Dinner,4," Menu variatif, semuanya enak"
+15.69,3,Male,Yes,Sat,Dinner,3," Suasana nyaman, makanan lezat"
+11.61,3.39,Male,No,Sat,Dinner,2, Ayam bakarnya bikin nagih
+10.77,1.47,Male,No,Sat,Dinner,2," Sering kesini, tidak pernah kecewa"
+15.53,3,Male,Yes,Sat,Dinner,2," Minuman kekinian, pas buat anak muda"
+10.07,1.25,Male,No,Sat,Dinner,2," Ayamnya empuk, bumbunya meresap"
+12.6,1,Male,Yes,Sat,Dinner,2," Pelayanannya cepat, tidak mengecewakan"
+32.83,1.17,Male,Yes,Sat,Dinner,2," Tempat keren, makanan top"
+35.83,4.67,Female,No,Sat,Dinner,3," Suasana santai, cocok buat kumpul"
+29.03,5.92,Male,No,Sat,Dinner,3, Hidangan sampingannya juga oke
+27.18,2,Female,Yes,Sat,Dinner,2, Ayam bakar terbaik di kota
+22.67,2,Male,Yes,Sat,Dinner,2," Menu variatif, semuanya enak"
+17.82,1.75,Male,No,Sat,Dinner,2," Suasana nyaman, makanan lezat"
+18.78,3,Female,No,Thur,Dinner,2, Ayam bakarnya bikin nagih
