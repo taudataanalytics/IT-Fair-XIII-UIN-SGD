@@ -1,0 +1,2 @@
+# IT-Fair-XIII-UIN-SGD
+ IT Fair TI FST UIN SGD Bandung 28 Feb 2024
